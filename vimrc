@@ -31,5 +31,5 @@ set autoindent smartindent shiftround
 set shiftwidth=2 softtabstop=2 tabstop=2
 
 set background=dark
-colorschem solarized 
+"colorschem solarized 
 
